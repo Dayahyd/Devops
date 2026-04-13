@@ -5,7 +5,9 @@ In DevOps, Git is the foundation for Version Control and CI/CD pipelines, managi
 git init: Initializes a new local repository in the current directory.
 
 git clone [url]: Creates a local copy of an existing remote repository, including its entire history.
+
 git remote add origin [url]: Connects your local repository to a remote server.
+
 git status: Shows the state of the working directory and staging area, highlighting modified or untracked files. 
 
 3. Development Workflow (Stage & Commit)
